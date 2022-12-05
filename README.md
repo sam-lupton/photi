@@ -1,4 +1,7 @@
 # Photi: a Streamlit app for generating and manipulate images
+
+*A YouTube tutorial can be found [here](https://youtu.be/ftnPuG2fWao)*
+
 Photi is an image editing app built in Python using the Streamlit framework. You can either upload images or generate them yourself using text prompts, via a lightweight implementation of the DALL·E deep learning text-to-image model. Once you've provided the picture, you can perform a variety of image editing and machine learning tasks.
 
 Photi was built in 2022 by Sam Lupton for the Harvard CS50 course.
